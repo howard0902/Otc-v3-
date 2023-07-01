@@ -11,10 +11,10 @@
 
 
 
-** Undetect on 02.07.23 **
-** Injector + Dll on Zip **
-** Update every month **
-** Vac Bypass on Injector **
+**Undetect on 02.07.23**
+**Injector + Dll on Zip**
+**Update every month**
+**Vac Bypass on Injector**
 
 
 
