@@ -1,7 +1,7 @@
 ## Otc v3 
 
 
-### Crack Onetap v3 Fix - Work on only in Win 10 , Win 11 ( Sorry who uses Win 7 ;( )
+### Crack Onetap v3 Fix - Work on only in Win 10 , Win 11 
 
 
 ![image](https://github.com/ugckbvv/Otc-v3-/assets/138333561/2ed52857-1cf3-45aa-8fea-45b32077d05a)
